@@ -18,4 +18,6 @@ int main()
     nLuas = 0.5 * nAlas * nTinggi;
     //display nLuas
     cout << "Luasnya adalah :" << nLuas << endl;
+
+    int nPanjang, nLebar, nLuas
 }
